@@ -19,7 +19,7 @@ This is a place to showcase all my skills, projects, and services.
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Ouch Illustrations](https://icons8.com/illustrations)
-- [Hero Patters](https://heropatterns.com/)
+- [Hero Patterns](https://heropatterns.com/)
 - [unDraw Illustrations](https://undraw.co/illustrations)
 
 ## Show your support
