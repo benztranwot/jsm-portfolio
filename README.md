@@ -2,9 +2,9 @@
 
 [View Live Site](https://benztran.netlify.app/)
 
-My personal portfolio aim at potiential clients on Upwork and Fiverr.
+My personal portfolio aims for potential clients on Upwork and Fiverr.
 
-This is a place to show case all my skills, projects and services.
+This is a place to showcase all my skills, projects, and services.
 
 ## Preview
 
@@ -21,3 +21,7 @@ This is a place to show case all my skills, projects and services.
 - [Ouch Illustrations](https://icons8.com/illustrations)
 - [Hero Patters](https://heropatterns.com/)
 - [unDraw Illustrations](https://undraw.co/illustrations)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
