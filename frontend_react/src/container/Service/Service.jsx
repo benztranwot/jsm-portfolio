@@ -38,7 +38,7 @@ const Service = () => {
         ))}
       </div>
 
-      <a href="#contact" className="mt-2">
+      <a href="#work" className="mt-2">
         <button type="button" className="p-text">
           View my projects
         </button>
