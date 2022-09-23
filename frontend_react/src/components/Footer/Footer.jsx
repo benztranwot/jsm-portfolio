@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { IoIosArrowUp } from "react-icons/io";
-import { AiFillGithub, AiFillLinkedin, AiFillTwitterCircle } from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin, AiFillMail } from "react-icons/ai";
 import { images } from "../../constants";
 import { client } from "../../client";
 
@@ -34,11 +34,11 @@ const Footer = () => {
               <a href="https://github.com/benztranwot" target="_blank" rel="noreferrer">
                 <AiFillGithub />
               </a>
-              <a href="">
+              <a href="https://www.linkedin.com/in/benz-tran" target="_blank" rel="noreferrer">
                 <AiFillLinkedin />
               </a>
-              <a href="">
-                <AiFillTwitterCircle />
+              <a href="#contact">
+                <AiFillMail />
               </a>
             </div>
           </div>

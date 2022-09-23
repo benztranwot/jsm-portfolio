@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import { AiFillGithub, AiFillLinkedin, AiFillTwitterCircle } from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin, AiFillMail } from "react-icons/ai";
 import { AppWrap } from "../../wrapper";
 import { images } from "../../constants";
 import "./Header.scss";
@@ -68,11 +68,11 @@ const Header = () => {
         <a href="https://github.com/benztranwot" target="_blank" rel="noreferrer">
           <AiFillGithub />
         </a>
-        <a href="">
+        <a href="https://www.linkedin.com/in/benz-tran" target="_blank" rel="noreferrer">
           <AiFillLinkedin />
         </a>
-        <a href="">
-          <AiFillTwitterCircle />
+        <a href="#contact">
+          <AiFillMail />
         </a>
       </div>
     </div>
