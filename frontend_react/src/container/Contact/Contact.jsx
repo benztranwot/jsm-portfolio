@@ -39,7 +39,6 @@ const Contact = () => {
 
   return (
     <>
-      {getDateTime()}
       <h2 className="head-text">Drop Me A Message</h2>
 
       <div className="app__contact-cards">

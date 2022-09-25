@@ -11,13 +11,13 @@ const About = () => {
         <div className="app__about-text">
           <h2 className="head-text">About Me</h2>
           <p className="p-text text-center">
-            I am a Full-Stack Web Developer with two years of experience in designing and developing responsive,
-            user-friendly website applications.
+            I am a Fullstack Web Developer with two years of experience in developing outstanding, responsive,
+            user-friendly web applications.
           </p>
           <p className="p-text text-center">
-            I enjoy creating things live on the internet, whether that be a frontend or full-stack application. My goal
-            is to always build outstanding, reliable products in a way that represents my clients' brand, and appeals to
-            their target audience.
+            I enjoy creating JAMstack websites with fast-loading static sites controlled by a Headless CMS. I love
+            structure and order and I also stand for quality. I love spending time fixing little details and optimizing
+            web apps.
           </p>
         </div>
         <div className="app__about-img">
