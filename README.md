@@ -2,9 +2,7 @@
 
 [View Live Site](https://benztran.netlify.app/)
 
-My personal portfolio aims for potential clients on Upwork and Fiverr.
-
-This is a place to showcase all my skills, projects, and services.
+My personal portfolio showcases all my skills, projects, and services.
 
 ## Preview
 
